@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory>
+  <Camera>
+    <Canon>
+      <Model Model="EOS 5D Mark II" Picture="Canon EOS 5D Mark II.jpg">
+        <Flash>
+          <Model Model="Speedlite 430 EX II" Mount="External" Priority="1" HSync="0.005" />
+        </Flash>
+        <Lens>
+          <Model Model="EF24-105mm f4L IS USM" Indice="EOS 5D Mark II - EF24-105mm f4L IS USM.png" />
+          <Model Model="EF50mm f1.8 II" Indice="EOS 5D Mark II - EF50mm f1.8 II.png" />
+        </Lens>
+      </Model>
+      <Model Model="EOS 7D" Picture="Canon EOS 7D.jpg">
+        <Flash>
+          <Model Model="Speedlite 430 EX II" Mount="External" Priority="1" HSync="0.004" />
+          <Model Model="EOS 7D Built In" Mount="BuiltIn" Priority="0" HSync="0.004" />
+        </Flash>
+        <Lens>
+          <Model Model="EF24-105mm f4L IS USM" Indice="EOS 7D - EF24-105mm f4L IS USM.png" />
+          <Model Model="EF50mm f1.8 II" Indice="EOS 7D - EF50mm f1.8 II.png" />
+          <Model Model="EF-S10-22mm f3.5-4.5 USM" Indice="EOS 7D - EF-S10-22mm f3.5-4.5 USM.png" />
+          <Model Model="EF-S18-55mm f3.5-5.6 IS" Indice="EOS 7D - EF-S18-55mm f3.5-5.6 IS.png" />
+          <Model Model="EF-S18-55mm f3.5-5.6 IS II" Indice="EOS 7D - EF-S18-55mm f3.5-5.6 IS II.png" />
+          <Model Model="EF-S55-250mm f4-5.6 IS" Indice="EOS 7D - EF-S55-250mm f4-5.6 IS.png" />
+        </Lens>
+      </Model>
+      <Model Model="EOS 400D DIGITAL" Picture="Canon EOS 400D DIGITAL.jpg">
+        <Flash>
+          <Model Model="Speedlite 430 EX II" Mount="External" Priority="1" HSync="0.004" />
+          <Model Model="EOS 400D DIGITAL Built In" Mount="BuiltIn" Priority="0" HSync="0.004" />
+        </Flash>
+        <Lens>
+          <Model Model="EF24-105mm f4L IS USM" Indice="EOS 7D - EF24-105mm f4L IS USM.png" />
+          <Model Model="EF55-200mm f4.5-5.6 USM" Indice="EOS 400D DIGITAL - EF55-200mm f4.5-5.6 USM.png" />
+          <Model Model="EF-S18-55mm f3.5-5.6" Indice="EOS 400D DIGITAL - EF-S18-55mm f3.5-5.6.png" />
+          <Model Model="EF-S18-55mm f3.5-5.6 IS" Indice="EOS 400D DIGITAL - EF-S18-55mm f3.5-5.6 IS.png" />
+          <Model Model="EF-S55-250mm f4-5.6 IS" Indice="EOS 400D DIGITAL - EF-S55-250mm f4-5.6 IS.png" />
+        </Lens>
+      </Model>
+    </Canon>
+    <FUJIFILM>
+      <Model Model="FinePix S5000" Picture="Undef">
+        <Flash>
+          <Model Model="FinePix S5000 Built In" Mount="BuiltIn" Priority="0" HSync="0.004" />
+        </Flash>
+        <Lens>
+          <Model Model="FUJIFILM - FinePix S5000" Indice="Undef" />
+        </Lens>
+      </Model>
+    </FUJIFILM>
+    <SEIKO_EPSON_CORP>
+      <Model Model="PhotoPC 800" Picture="Undef">
+        <Flash>
+          <Model Model="PhotoPC 800 Built In" Mount="BuiltIn" Priority="0" HSync="0.004" />
+        </Flash>
+        <Lens>
+          <Model Model="SEIKO EPSON CORP - PhotoPC 800" Indice="Undef" />
+        </Lens>
+      </Model>
+    </SEIKO_EPSON_CORP>
+  </Camera>
+  <Flash>
+    <Model Model="EOS 400D DIGITAL Built In" BaseNg="12.0" BaseFocale="105.0" BaseIso="100.0" DistanceMin="0.7" DistanceMax="12.0" DistanceMAxHSync="0.0" HSyncCoef="0.5" Tolerance="1.0">
+      <DurationAtPower>
+        <Values Duration="1.0" Power="0.001923" />
+        <Values Duration="0.5" Power="0.001923" />
+        <Values Duration="0.25" Power="0.0011" />
+        <Values Duration="0.125" Power="0.0005" />
+        <Values Duration="0.0625" Power="0.0003" />
+        <Values Duration="0.03125" Power="0.00021" />
+      </DurationAtPower>
+    </Model>
+    <Model Model="EOS 7D Built In" BaseNg="12.0" BaseFocale="105.0" BaseIso="100.0" DistanceMin="0.7" DistanceMax="12.0" DistanceMAxHSync="0.0" HSyncCoef="0.5" Tolerance="1.0">
+      <DurationAtPower>
+        <Values Duration="1.0" Power="0.001923" />
+        <Values Duration="0.5" Power="0.001923" />
+        <Values Duration="0.25" Power="0.0011" />
+        <Values Duration="0.125" Power="0.0005" />
+        <Values Duration="0.0625" Power="0.0003" />
+        <Values Duration="0.03125" Power="0.00021" />
+      </DurationAtPower>
+    </Model>
+    <Model Model="FinePix S5000 Built In" BaseNg="6.0" BaseFocale="35.0" BaseIso="160.0" DistanceMin="0.3" DistanceMax="6.0" DistanceMAxHSync="0.0" HSyncCoef="0.5" Tolerance="1.0">
+      <DurationAtPower>
+        <Values Duration="1.0" Power="0.001923" />
+        <Values Duration="0.5" Power="0.001923" />
+        <Values Duration="0.25" Power="0.0011" />
+        <Values Duration="0.125" Power="0.0005" />
+        <Values Duration="0.0625" Power="0.0003" />
+        <Values Duration="0.03125" Power="0.00021" />
+      </DurationAtPower>
+    </Model>
+    <Model Model="PhotoPC 800 Built In" BaseNg="6.0" BaseFocale="7.0" BaseIso="160.0" DistanceMin="0.3" DistanceMax="4.0" DistanceMAxHSync="0.0" HSyncCoef="0.5" Tolerance="1.0">
+      <DurationAtPower>
+        <Values Duration="1.0" Power="0.001923" />
+        <Values Duration="0.5" Power="0.001923" />
+        <Values Duration="0.25" Power="0.0011" />
+        <Values Duration="0.125" Power="0.0005" />
+        <Values Duration="0.0625" Power="0.0003" />
+        <Values Duration="0.03125" Power="0.00021" />
+      </DurationAtPower>
+    </Model>
+    <Model Model="Speedlite 430 EX II" BaseNg="43.0" BaseFocale="105.0" BaseIso="100.0" DistanceMin="0.7" DistanceMax="24.3" DistanceMAxHSync="12.0" HSyncCoef="0.5" Tolerance="2.0">
+      <DurationAtPower>
+        <Values Duration="1.0" Power="0.001923" />
+        <Values Duration="0.5" Power="0.001923" />
+        <Values Duration="0.25" Power="0.0011" />
+        <Values Duration="0.125" Power="0.0005" />
+        <Values Duration="0.0625" Power="0.0003" />
+        <Values Duration="0.03125" Power="0.00021" />
+      </DurationAtPower>
+    </Model>
+  </Flash>
+  <Lens>
+    <Model Model="EF24-105mm f4L IS USM" FocaleMin="24.0" FocaleMax="105.0" ApertureMin="4.0" ApertureMax="22.0" Price="1250" IS="Yes" />
+    <Model Model="EF50mm f1.8 II" FocaleMin="50.0" FocaleMax="50.0" ApertureMin="1.8" ApertureMax="22.0" Price="100" IS="No" />
+    <Model Model="EF55-200mm f4.5-5.6 USM" FocaleMin="55.0" FocaleMax="200.0" ApertureMin="4.5" ApertureMax="32.0" Price="200" IS="No" />
+    <Model Model="EF-S10-22mm f3.5-4.5 USM" FocaleMin="10.0" FocaleMax="22.0" ApertureMin="3.5" ApertureMax="29.0" Price="850" IS="No" />
+    <Model Model="EF-S18-55mm f3.5-5.6" FocaleMin="18.0" FocaleMax="55.0" ApertureMin="3.5" ApertureMax="36.0" Price="180" IS="No" />
+    <Model Model="EF-S18-55mm f3.5-5.6 IS" FocaleMin="18.0" FocaleMax="55.0" ApertureMin="3.5" ApertureMax="36.0" Price="180" IS="Yes" />
+    <Model Model="EF-S18-55mm f3.5-5.6 IS II" FocaleMin="18.0" FocaleMax="55.0" ApertureMin="3.5" ApertureMax="36.0" Price="180" IS="Yes" />
+    <Model Model="EF-S18-55mm f3.5-5.6 IS II" FocaleMin="55.0" FocaleMax="250.0" ApertureMin="4.0" ApertureMax="32.0" Price="250" IS="Yes" />
+    <Model Model="FUJIFILM - FinePix S5000" FocaleMin="5.7" FocaleMax="57.0" ApertureMin="2.8" ApertureMax="8.0" Price="0" IS="No" />
+    <Model Model="SEIKO EPSON CORP - PhotoPC 800" FocaleMin="7.0" FocaleMax="7.0" ApertureMin="2.8" ApertureMax="8.0" Price="0" IS="No" />
+  </Lens>
+</Inventory>

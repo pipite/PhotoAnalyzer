@@ -1,0 +1,6 @@
+FocaleMin=24.0
+FocaleMax=105.0
+ApertureMin=4.0
+ApertureMax=22.0
+Price=1250
+IS=Yes

@@ -1,0 +1,3 @@
+Type: External
+Priority: 1
+HSync: 0.004

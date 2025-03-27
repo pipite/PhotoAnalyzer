@@ -1,0 +1,6 @@
+FocaleMin=7.0
+FocaleMax=7.0
+ApertureMin=2.8
+ApertureMax=8.0
+Price=0
+IS=No

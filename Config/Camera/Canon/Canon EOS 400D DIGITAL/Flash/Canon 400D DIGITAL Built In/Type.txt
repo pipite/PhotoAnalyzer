@@ -1,0 +1,3 @@
+Type: BuiltIn
+Priority: 0
+HSync: 0.004
